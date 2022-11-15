@@ -1,0 +1,2 @@
+D:\Users\1210N-9\Documents\2-ИСП\ОП\Подгруппа 1\Кондаков\PR-10\obj\Debug\PR-10.csproj.AssemblyReference.cache
+D:\Users\1210N-9\Documents\2-ИСП\ОП\Подгруппа 1\Кондаков\PR-10\obj\Debug\PR-10.csproj.CoreCompileInputs.cache
